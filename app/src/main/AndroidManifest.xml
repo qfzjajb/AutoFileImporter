@@ -1,0 +1,19 @@
+<？XML version="1.0"encoding="utf-8"？>
+<表明xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <应用
+        Android:allowBackup="真"
+        Android：标签="自动文件导入器"
+        Android:supportsRtl="真"
+        Android：主题="@style/AppTheme">
+        <活动
+            Android：名称=".MainActivity"
+            Android：已导出="真">
+            <意图过滤器>
+                <行动Android：名称="android.intent.action.MAIN" />
+                <类别Android：名称="android.intent.category.Launcher" />
+            </意图过滤器>
+        </活动>
+    </应用>
+
+</表明>
